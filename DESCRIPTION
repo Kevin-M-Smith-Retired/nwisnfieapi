@@ -1,0 +1,10 @@
+Package: nwisnfieapi
+Type: Package
+Title: Extracts flow from files produced by nwisnfie package. 
+Version: 0.0.1
+Date: 2015-07-08
+Author: Kevin M. Smith
+Maintainer: Kevin M. Smith <kevin.smith@tufts.edu>
+Description: More about what it does (maybe more than one line)
+License: GPL-3.0
+Imports: lubridate, ncdf4
